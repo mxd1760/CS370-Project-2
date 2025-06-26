@@ -1,0 +1,15 @@
+# CS370 Project 2
+
+This project is an AI model of a little game. the starter code provided some classes that tracked a maze and an agent's position inside as well as the possible actions that could be taken, there was also a class for some secondary data that would track progress across multiple games. what I added to the project was an AI model through the use of keras that would generate a deep-Q neural network from which different decisions could be made depending on the current state of the board to try and optimize the agent moving towards the end goal.
+
+## what do computer scientests do and why does it matter
+
+computer scientests try to understand computer systems as well as different processes in order to apply the processing power of computers to problems that can be solved more efficiently. This role is important because it provides a backend on which a lot of the cutting edge work of society is currently being done. It also helps with providing access of many services to more people than might be possible without computers because humans can't know everything about a problem all at once so letting the computer take away some of that burden for mundane things like monitary exchange or logistics can help people focus more on the parts of the human experience that need new and novel solutions.
+
+## How do I approach a problem as a computer scientist
+
+Much like how people can't consider all of a problem at once, computer scientests need to be good at breaking down problems into smaller ones. Even AI which to many feels like a tool that can just be thrown at any problem to produce a meaningful result can be boulstered by the ability to apply it wisely to multiple subproblems as opposed to trying to just force it to do all the work for you. I think computer scientests are also much more well suited to doing this breaking apart of problems because we need to be able to apply this skill over a broader scope of problems than likely any other kind of expert. anything from human interaction and addiction at a cascino, to pure pressure, and mechanical problems of rocket ships or F1 cars. every one can be broken down in order to help make the ultimate solution easier to make and improved in functionality.
+
+## what are my ethical responsibilities to the end user and the organization
+
+in having such a broadly applicable skillset, understanding not just the computer focused risks to people but also understanding what aspects of a problem pose the most risk to human safety either directly with something like a machine that can kill or indirectly with sociological effects that are either untested or proven to have negative consequences on individuals or communities is a huge responsability. even if we won't have the solutions to every such problem, having the ability to identify them and understanding how to make them a development priority for the team can be the difference between a system that ruins thousands of lives and one that can save just as many.
